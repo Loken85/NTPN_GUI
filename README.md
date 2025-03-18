@@ -3,12 +3,12 @@
 ### By Adrian Lindsay
 ### University of British Columbia
 
-This is the home of the Neural Trajectory Point Net (NTPN), a spatial transformer based neural network approach to extracting and analysing the geometry of neural representations. 
+This is the home of the Neural Trajectory Point Net (NTPN) tool and GUI, a spatial transformer based neural network approach to extracting and analysing the geometry of neural representations. 
 
 The details and background of the NTPN can be found in my doctoral dissertation: Understanding the Geometry of Emotion [Lindsay, 2024: UBC] (https://doi.org/10.14288/1.0445225)
 
 
-In it's current form, this repository is not stand alone, but is simply a collection of the functions and scripts used to perform the analysis described in the paper linked above.
+This repositroy is a work in progress, converting the original scripts to a more user-friendly tool with graphical interface. 
 Further development is in progress and will be available as a pre-print in future. 
 
 ## Basic Architecture of the NTPN
